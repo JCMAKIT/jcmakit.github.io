@@ -11,11 +11,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://jcmakit.github.io/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://jcmakit.github.io/"
                 />
@@ -45,11 +40,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://jcmakit.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://jcmakit.github.io/categories/"
                 />
@@ -75,11 +65,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://jcmakit.github.io/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://jcmakit.github.io/post/"
                 />
@@ -93,11 +78,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://jcmakit.github.io/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jcmakit.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -122,16 +102,6 @@
   </url><url>
     <loc>https://jcmakit.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://jcmakit.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jcmakit.github.io/p/placeholder-text/"
-                />
   </url><url>
     <loc>https://jcmakit.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
