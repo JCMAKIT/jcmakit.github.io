@@ -15,8 +15,18 @@
                 href="https://jcmakit.github.io/"
                 />
   </url><url>
-    <loc>https://jcmakit.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://jcmakit.github.io/about/</loc>
+    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://jcmakit.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jcmakit.github.io/about/"
+                />
   </url><url>
     <loc>https://jcmakit.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
@@ -30,6 +40,9 @@
                 hreflang="en"
                 href="https://jcmakit.github.io/page/"
                 />
+  </url><url>
+    <loc>https://jcmakit.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jcmakit.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -133,19 +146,6 @@
   </url><url>
     <loc>https://jcmakit.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jcmakit.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jcmakit.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jcmakit.github.io/about/"
-                />
   </url><url>
     <loc>https://jcmakit.github.io/links/</loc>
   </url><url>
