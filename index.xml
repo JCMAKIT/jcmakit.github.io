@@ -14,10 +14,28 @@
         
         <guid>https://jcmakit.github.io/about/</guid>
         <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me
-&lt;/h1&gt;&lt;p&gt;Hi, this is Jesse! I play skateboard, I studied statistics and computer science in Australian National University.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;Hi, this is Jesse! Welcome to my blog and thanks for your time reading more about me! I played electric skateboard and basketball when I&amp;rsquo;m not by the desk cracking codes and stats. High five if you too love Oasis and&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education
+&lt;/h2&gt;&lt;p&gt;I studied statistics and computer science in Australian National University, Canberra, Australia. (Canberra is not that boring)&lt;/p&gt;
+&lt;p&gt;My experience in CS taught me how to code and think systematically.&lt;/p&gt;
+&lt;p&gt;My expereicne in STAT taught me how to reveal secrets behind the data and tell a story properly.&lt;/p&gt;
+&lt;h2 id=&#34;why-data-science&#34;&gt;Why Data Science?
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The best thing about being a statistician is that you get to play in everyone&amp;rsquo;s backyard&amp;rdquo; - J.Tukey&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Universality of data science is one of the reasons that intrigue me. It&amp;rsquo;s a framework to help you understand the realiaty and solve problems in different areas.&lt;/p&gt;
+&lt;p&gt;Another reason that interests me is: I love sharing and communicating. And that&amp;rsquo;s such an essential part in data science.&lt;/p&gt;
 &lt;h1 id=&#34;about-this-blog&#34;&gt;About this Blog
-&lt;/h1&gt;&lt;p&gt;This blog is where I showcase some of my favourite data science projects.
-I also wrote articles about business understanding and mathematic details behind some .&lt;/p&gt;
+&lt;/h1&gt;&lt;h2 id=&#34;data-science-profolio&#34;&gt;Data Science Profolio
+&lt;/h2&gt;&lt;p&gt;You can find some of my favourite projects in this website. They can be found under the tag: &lt;em&gt;Data Science Profolio&lt;/em&gt;. The contents are organized in a relatively time-saving style for you to read.&lt;/p&gt;
+&lt;p&gt;I also attach links to my detailed breakdown of how I tackle the problem. Feel free to click on the parts that you are interested in to take a closer look.&lt;/p&gt;
+&lt;h2 id=&#34;business-understanding&#34;&gt;Business Understanding
+&lt;/h2&gt;&lt;p&gt;Before any code and algorithm, I start with building my business understanding of the problem. And throughout the process in data science workflow, I often come back to this part to add or fix my understanding.&lt;/p&gt;
+&lt;p&gt;Articles under this tag is my thoughts and notes of a specific business area that may map to one or multiple projects.&lt;/p&gt;
+&lt;h2 id=&#34;coding-fun&#34;&gt;Coding Fun
+&lt;/h2&gt;&lt;p&gt;This part contains fun coding knowledge that could be related to: elegant coding style/data engineering/data wrangling/AI Applications, etc.&lt;/p&gt;
+&lt;h2 id=&#34;stat-fun&#34;&gt;Stat Fun
+&lt;/h2&gt;&lt;p&gt;I put some mathematic breakdown of important concept and algorithm under this tag.&lt;/p&gt;
 </description>
         </item>
         <item>
